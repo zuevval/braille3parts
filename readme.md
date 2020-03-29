@@ -1,4 +1,5 @@
-# Braille Trainer 3 (Braille On Rail)
+# This repository is ARCHIVED and moved [HERE](https://github.com/braille-systems/braille-display-cad/)
+## Braille Trainer 3 (Braille On Rail)
 Here are the parts for Braille Trainer v3  - a continuation of the [Braille Trainer project](https://github.com/zuevval/braille).<br>
 Created with SolidWorks 2017.<br>
 Code for Braille Trainer v3: 
